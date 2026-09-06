@@ -8,8 +8,6 @@
     <a href="mailto:asrul.abdullah@unmuhpnk.ac.id"><img src="https://img.shields.io/badge/unmuhpnk.ac.id-D14836?style=flat-square&logo=unmuhpnk&logoColor=white" alt="Email" /></a>
     <a href="https://scholar.google.com/citations?user=V_dRQ_kAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DV_dRQ_kAAAAJ" alt="Google Scholar" /></a>
     <a href="https://www.scopus.com/authid/detail.uri?authorId=60634931500"><img src="https://img.shields.io/badge/Scopus-orange" alt="Scopus"/></a>
-
-
 </div>
 
 <br>
@@ -17,7 +15,7 @@
 ### 👨‍💻 About Me & Experience
 - 🎓 **Bachelor of Informatics**, STMIK AMIKOM Yogyakarta — graduated February 25, 2012, GPA 3.47.
 - 🎓 **Magister Computer of Science**, GadjahMada University Yogyakarta — graduated October 19, 2016, GPA 3.27.
-- 🌲 Focusing on **Agriculture & Peatland Carbon Stock Mapping with Machine Learning**.
+- 🌲 Focusing on **Internet of Things in Agriculture and Crop Recommendation with Machine Learning at Peatland**.
 - 🛰️ Trying to **applying remote sensing (Sentinel-2, Landsat) and spectral analysis**.
 
 ---
@@ -29,6 +27,20 @@
 - 📓 Reviewer @ JITK (2026)
 - 📓 Reviewer @ Sustainable Computing (2026)
 - 📓 Reviewer @ Abdimas (2026)
+
+---
+## 🔬 Previous Research
+- **A Abdullah**, M Iwan, Maryogi, R Faizal, **2026**, System Testing and Performance Evaluation of an MQTT-Based IoT Monitoring System for Crop Cultivation, ELKHA, Vol 18 No 1, pp 10 - 17. <a href="https://jurnal.untan.ac.id/index.php/Elkha/article/view/98306"><img src="https://img.shields.io/badge/download-blue"/></a>
+- **A. Abdullah**, E. I. Raharjo, M. Iwan, R. Faizal, Maryogi, **2025**, Development of an IoT-based Soil Nutrient Monitoring and GIS Mapping System for Precision Agriculture, Advance Sustainable Science Engineering and Technology, 7 (4) pp 02504037-01 - 02504037-014. <a href="https://journal2.upgris.ac.id/index.php/asset/article/view/2191/1030"><img src="https://img.shields.io/badge/download-blue"/></a>
+- **A. Abdullah**, M. Iwan, S. R. Dani, **2025**, APPLYING TREE BASED MODEL FOR CROP RECOMMENDATION SYSTEM BASED ON SOIL PARAMETERS AND WEATHER CONDITIONS, JITK (Jurnal Ilmu Pengetahuan dan Teknologi Komputer), 11 (1) pp 228-235. <a href="https://ejournal.nusamandiri.ac.id/index.php/jitk/article/view/6476/1484"><img src="https://img.shields.io/badge/download-blue"/></a>
+- **A. Abdullah**, M. Iwan, M. G. Alkhairi, **2024**, Identifikasi Unsur Hara pada Lahan Pertanian Padi menggunakan Soil Integrated Sensor dan Sistem Informasi Geografis, JEPIN (Jurnal Edukasi dan Penelitian Informatika), 10 (3) pp 371-377. <a href="https://jurnal.untan.ac.id/index.php/jepin/article/view/83329"><img src="https://img.shields.io/badge/download-blue"/></a>
+- **A. Abdullah**, S. A. Prakoso, M. Taruk, **2022**, Desain absensi mahasiswa dengan tanda tangan digital terverifikasi berbasis convolutional neural network di masa pandemi covid-19. Jurnal Rekayasa Teknologi Informasi (JURTI), 6 (1) pp 82-90. <a href="https://e-journals.unmul.ac.id/index.php/INF/article/view/7639/pdf"><img src="https://img.shields.io/badge/download-blue"/></a>
+
+---
+## Research Grants
+- **Regular Fundamental Research Grant** in **2024** is funded by the Ministry of Higher Education, Science and Technology
+- **Early Career Researcher (ECR) Grant** in **2019** is funded by the Ministry of Education and Culture
+- **Early Career Researcher (ECR) Grant** in **2018** is funded by the Ministry of Education and Culture
 
 ---
 
@@ -47,7 +59,4 @@
 $ research --focus "Internet of Things in Agriculture" \
            --focus "Machine Learning " \
            --focus "Edge Computing"
-
 ```
-
----
