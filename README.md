@@ -1,38 +1,24 @@
-🌲 Forester | 🌱 Ecology & Carbon | 🧬 Species Distribution Modeling
-Forestry, ecology, and carbon science through open-source geospatial technology. 🌍
-
-LinkedIn Medium TikTok Instagram 49s.lab Kaggle RPubs Behance Email
+🌲 Computer | 🌱 Internet of Things in Agriculture | 🧬 Computer Network |  🧬 Machine Learning
 
 👨‍💻 About Me & Experience
-🎓 Bachelor of Forestry, Universitas Kuningan — graduated August 12, GPA 3.88.
-🌲 Focusing on Forest & Mangrove Carbon Stock Mapping, Ecological Modeling, and Species Distribution Modeling (SDM) for conservation and sustainability.
-🛰️ Applying remote sensing (Sentinel-2, Landsat) and spectral analysis to quantify above-ground biomass (AGB) and support restoration prioritization.
-🛠️ Builds and maintains fully open-source geospatial workflows — QGIS, R, Python, and Google Earth Engine — instead of proprietary GIS software, including RasterViz, a QGIS plugin with 900+ users worldwide 🌐.
-📚 Educating a community of 5K+ followers on ecology, carbon, and open-source GIS via @49s.lab.
-💼 Work Experience & Involvement:
+🎓 Bachelor of Informatics, STMIK AMIKOM Yogyakarta — graduated February 25, 2012, GPA 3.47.
+🎓 Magister Computer of Science, GadjahMada University Yogyakarta — graduated October 19, 2016, GPA 3.27.
+🌲 Focusing on Agriculture & Peatland Carbon Stock Mapping with Machine Learning.
+🛰️ Trying to Applying remote sensing (Sentinel-2, Landsat) and spectral analysis.
 
-🌏 GIS & RS Analyst @ Redelong Institute, TFCA Program (current)
-🔬 GIS Assistant @ WWF Indonesia — Home-based, Aceh (current)
-🧪 Laboratory Assistant @ Universitas Kuningan (2025–2026)
-📡 GIS & RS Tutor @ Forum Pohon Langka Indonesia (2025)
-🌳 Social Forestry Facilitator @ BPSKL Sumatera, Ministry of Environment and Forestry (2024)
-🌲 Forestry & Field Expertise
-🌳 Forestry Measurements: Biomass Parameter Measurement, Forest Inventory, Wildlife Inventory.
-📊 Vegetation & Biometrics: Forest Profile Construction, Vegetation Analysis, Forest Biometrics.
-🦌 Biodiversity Survey: Taman Nasional Gunung Ciremai (TNGC).
-🌊 Coastal Ecosystems: Mangrove Survey, Mangrove Identification.
+💼 Work Experience & Involvement:
+📚 Teaching some subjects in Informatics such as Network Computer, Machine Learning, Edge Computation and Cloud Computing (current)
+🔬 Head of Research and Innovation @ LP3M Universitas Muhammadiyah Pontianak (current)
+🧪 Head of Informatics Study Program (2021–2025)
+📡 Reviewer @ JITK (2026)
+🔬 Reviewer @ Sustainable Computing (2026)
+🔬 Reviewer @ Abdimas (2026)
+
 🚀 Tech Stack & Libraries
-Category	🐍 Python Ecosystem	📊 R Ecosystem	🛠️ Software / Spatial Tools
-Data & ML	
-Geospatial & Ecology	
+Category	🐍 Python Ecosystem	📊 PHP	🛠️ Software Data & ML	
 Visualization & GUI	
+
 🔬 Research Interests
-$ research --focus "Forest ecology & carbon modeling" \
-           --focus "Mangrove biomass & carbon stock estimation" \
-           --focus "Species distribution modeling" \
-           --focus "Forestry & remote sensing" \
-           --focus "Restoration prioritization" \
-           --focus "Biodiversity conservation" \
-           --focus "Sustainability through open-source geospatial tools" \
-           --focus "Social forestry" \
-           --focus "Environmental education"
+$ research --focus "Internet of Things in Agriculture" \
+           --focus "Machine Learning " \
+           --focus "Edge Computing"
