@@ -1,4 +1,18 @@
+<img src="https://komarev.com/ghpvc/?username=asrulabdullah99&label=Profile%20Views&color=10b981&style=flat-square" alt="Views" valign="middle" /> <img src="https://img.shields.io/github/stars/asrulabdullah99?style=flat-square&color=10b5181&label=Total%20Stars" alt="Stars" valign="middle" />
+
 ## 💻 Computer | 🌱 Internet of Things in Agriculture | 🧬 Computer Network |  💻 Machine Learning
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/asrulabdullah99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/asrulabdullah99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:asrul.abdullah@unmuhpnk.ac.id"><img src="https://img.shields.io/badge/unmuhpnk.ac.id-D14836?style=flat-square&logo=unmuhpnk&logoColor=white" alt="Email" /></a>
+    <a href="https://scholar.google.com/citations?user=V_dRQ_kAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DV_dRQ_kAAAAJ" alt="Google Scholar" /></a>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=60634931500"><img src="https://img.shields.io/badge/Scopus-orange" alt="Scopus"/></a>
+
+
+</div>
+
+<br>
 
 ### 👨‍💻 About Me & Experience
 - 🎓 **Bachelor of Informatics**, STMIK AMIKOM Yogyakarta — graduated February 25, 2012, GPA 3.47.
